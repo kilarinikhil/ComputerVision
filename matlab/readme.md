@@ -3,6 +3,7 @@ Use "leena_noisy.jpg" for the experiment. Generate gaussian filters and apply it
  
 ## Template matching
 ### Template "where-is-waldo.jpg"
+![](images/waldo.jpg)
 ### Target image "waldo.jpg"
 Find the location of the template image in target image using normalized cross correlation
 
