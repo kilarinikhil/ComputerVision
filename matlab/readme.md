@@ -1,6 +1,8 @@
 ## Image denoising
 Use "leena_noisy.jpg" for the experiment.
+
 ![](images/leena_noisy.jpg)
+
 Generate gaussian filters and apply it on the image using various sigma values.
  
 ## Template matching
@@ -8,6 +10,7 @@ Generate gaussian filters and apply it on the image using various sigma values.
 ![](images/where-is-waldo.jpg)
 ### Target image "waldo.jpg"
 ![](images/waldo.jpg)
+
 Find the location of the template image in target image using normalized cross correlation
 
 ## Sobel edge detection
