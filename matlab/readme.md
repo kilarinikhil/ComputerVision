@@ -11,7 +11,7 @@ Generate gaussian filters and apply it on the image using various sigma values.
 ### Target image "waldo.jpg"
 ![](images/waldo.jpg)
 
-Find the location of the template image in target image using normalized cross correlation
+Find the location of the target image in template image using normalized cross correlation
 
 ## Sobel edge detection
 Use sobel kernels to find the edges of an image.
