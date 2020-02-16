@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread('location of your image')
+img = cv2.imread('images/image1.jpg')
 #converting image into gray scale
 print("Converting image into grayscale")
 imgGray = np.array(cv2.cvtColor(img, cv2.COLOR_BGR2GRAY))
