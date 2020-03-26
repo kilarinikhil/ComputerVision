@@ -6,4 +6,6 @@ Model tree:
 - [x] Image denoising
 - [x] Template matching
 - [x] Sobel edge detector
-- [ ] Hough transform
+- [x] Hough transform(py file yet to be uploaded)
+
+Further updates will soon be conveyed

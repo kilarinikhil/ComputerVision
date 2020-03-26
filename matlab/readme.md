@@ -11,11 +11,24 @@ Generate gaussian filters and apply it on the image using various sigma values.
 ### Target image "waldo.jpg"
 ![](images/waldo.jpg)
 
-Find the location of the target image in template image using normalized cross correlation
+- Find the location of the target image in template image using normalized cross correlation
 
 ## Sobel edge detection(que3.m)
-Use sobel kernels to find the edges of an image.
+1. Define sobel kernels
+2. Apply kernels and find the edges
 ### Test image
 ![](images/image1.jpg)
 
 If possible write your own code for convolution and correlation
+
+## Hough Transform(que4.m)
+1. Use sobel to find the threshold
+2. Use canny edge detection on the input image
+3. Define houghVotes() function
+4. Define houghPeaks() function
+5. Define drawHoughLines() function
+
+- Apply hough transform on this image
+![](images/image2.png)
+- Output should look something like this
+![](results/houghLines.jpg)
