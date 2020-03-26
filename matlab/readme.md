@@ -28,7 +28,7 @@ If possible write your own code for convolution and correlation
 4. Define houghPeaks() function
 5. Define drawHoughLines() function
 
-- Apply hough transform on this image\
+- Apply hough transform on this image<br>
 ![](images/image2.png)
-- Output should look something like this\
+- Output should look something like this<br>
 ![](results/houghLines.jpg)
