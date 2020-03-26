@@ -7,5 +7,6 @@ Model tree:
 - [x] Template matching
 - [x] Sobel edge detector
 - [x] Hough transform(py file yet to be uploaded)
+- [ ] Harris corner detection
 
 Further updates will soon be conveyed
