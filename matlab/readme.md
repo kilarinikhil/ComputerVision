@@ -52,5 +52,5 @@ If possible write your own code for convolution and correlation
 - Output should look like this<br>
 ![](results/chessBoard.jpg)<br>
 - Ouput with gradients of all orders<br>
-![](results/harrisCornerAllPlot.jpg)
+<img align="right" src = "results/harrisCornerAllPlot.jpg">
 
