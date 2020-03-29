@@ -50,6 +50,7 @@ If possible write your own code for convolution and correlation
 
 - Apply harris corner detector on the chessboard image in the images directory
 - Output should look like this<br>
-![](results/chessBoard.jpg)
+![](results/chessBoard.jpg)<br>
+- Ouput with gradients of all orders<br>
 ![](results/harrisCornerAllPlot.jpg)
 
