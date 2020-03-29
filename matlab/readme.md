@@ -1,4 +1,3 @@
-<p align = "center">
 ## Image denoising(que1.m)
 Use "leena_noisy.jpg" for the experiment.
 
@@ -53,5 +52,6 @@ If possible write your own code for convolution and correlation
 - Output should look like this<br>
 <img align = "center" src = "results/chessBoard.jpg">
 - Ouput with gradients of all orders<br>
-<img align="center" src = "results/harrisCornerAllPlot.jpg">
+<p align = "center">
+<img  src = "results/harrisCornerAllPlot.jpg">
 </p>
