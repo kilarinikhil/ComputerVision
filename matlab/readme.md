@@ -32,3 +32,24 @@ If possible write your own code for convolution and correlation
 ![](images/image2.png)
 - Output should look something like this<br>
 ![](results/houghLines.jpg)
+
+## Harris corner detector(que5.m)
+1. First first order derivatives of same size of the image
+2. Find second degree derivatives
+3. Apply Gaussian smoothing
+4. Find R matrix
+5. Apply non-max suppresion
+6. Find the location of the local maximums
+7. Plot the corners
+
+- Associated files
+1. que5.m
+2. harrisCorner.m
+3. isLocalMax.m
+4. showCorners.m
+
+- Apply harris corner detector on the chessboard image in the images directory
+- Output should look like this<br>
+![](results/chessBoard.jpg)
+![](results/harrisCornerAllPlot.jpg)
+
