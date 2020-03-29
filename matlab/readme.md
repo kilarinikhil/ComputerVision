@@ -1,15 +1,19 @@
 ## Image denoising(que1.m)
 Use "leena_noisy.jpg" for the experiment.
-
-![](images/leena_noisy.jpg)
-
+<p align = center>
+<img src = "images/leena_noisy.jpg">
+</p>
 Generate gaussian filters and apply it on the image using various sigma values.
  
 ## Template matching(que2.m)
 - Output should look like this
-![](results/waldoOutput.jpg)
+<p align = "center">
+<img src = "results/waldoOutput.jpg">
+</p>
 ### Target image "waldo.jpg"
-![](images/waldo.jpg)
+<p align = "center">
+<img src = "images/waldo.jpg">
+</p>
 
 - Find the location of the target image in template image using normalized cross correlation
 
@@ -17,7 +21,9 @@ Generate gaussian filters and apply it on the image using various sigma values.
 1. Define sobel kernels
 2. Apply kernels and find the edges
 ### Test image
+<p align = "center">
 <img align = "center" src = "images/image1.jpg">
+</p>
 
 If possible write your own code for convolution and correlation
 
@@ -29,9 +35,13 @@ If possible write your own code for convolution and correlation
 5. Define drawHoughLines() function
 
 - Apply hough transform on this image<br>
+<p align = "center">
 <img align = "center" src = "images/image2.png">
+</p>
 - Output should look something like this<br>
+<p align = "center">
 <img align = "center" src = "results/houghLines.jpg">
+</p>
 
 ## Harris corner detector(que5.m)
 1. First first order derivatives of same size of the image
@@ -50,7 +60,9 @@ If possible write your own code for convolution and correlation
 
 - Apply harris corner detector on the chessboard image in the images directory
 - Output should look like this<br>
+<p align = "center">
 <img align = "center" src = "results/chessBoard.jpg">
+</p>
 - Ouput with gradients of all orders<br>
 <p align = "center">
 <img  src = "results/harrisCornerAllPlot.jpg">
