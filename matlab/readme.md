@@ -6,8 +6,8 @@ Use "leena_noisy.jpg" for the experiment.
 Generate gaussian filters and apply it on the image using various sigma values.
  
 ## Template matching(que2.m)
-### Template "where-is-waldo.jpg"
-![](images/where-is-waldo.jpg)
+- Output should look like this
+![](results/waldoOutput.jpg)
 ### Target image "waldo.jpg"
 ![](images/waldo.jpg)
 
