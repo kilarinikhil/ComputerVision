@@ -17,7 +17,7 @@ Generate gaussian filters and apply it on the image using various sigma values.
 1. Define sobel kernels
 2. Apply kernels and find the edges
 ### Test image
-![](images/image1.jpg)
+<img align = "center" src = "images/image1.jpg">
 
 If possible write your own code for convolution and correlation
 
@@ -29,9 +29,9 @@ If possible write your own code for convolution and correlation
 5. Define drawHoughLines() function
 
 - Apply hough transform on this image<br>
-![](images/image2.png)
+<img align = "center" src = "images/image2.png">
 - Output should look something like this<br>
-![](results/houghLines.jpg)
+<img align = "center" src = "results/houghLines.jpg">
 
 ## Harris corner detector(que5.m)
 1. First first order derivatives of same size of the image
@@ -50,7 +50,7 @@ If possible write your own code for convolution and correlation
 
 - Apply harris corner detector on the chessboard image in the images directory
 - Output should look like this<br>
-![](results/chessBoard.jpg)<br>
+<img align = "center" src = "results/chessBoard.jpg">
 - Ouput with gradients of all orders<br>
-<img align="right" src = "results/harrisCornerAllPlot.jpg">
+<img align="center" src = "results/harrisCornerAllPlot.jpg">
 
