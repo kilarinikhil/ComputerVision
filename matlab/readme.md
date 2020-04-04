@@ -10,6 +10,7 @@ Generate gaussian filters and apply it on the image using various sigma values.
 <p align = "center">
 <img src = "results/waldoOutput.jpg">
 </p>
+
 ### Target image "waldo.jpg"
 <p align = "center">
 <img src = "images/waldo.jpg">
@@ -38,6 +39,7 @@ If possible write your own code for convolution and correlation
 <p align = "center">
 <img align = "center" src = "images/image2.png">
 </p>
+
 - Output should look something like this<br>
 <p align = "center">
 <img align = "center" src = "results/houghLines.jpg">
