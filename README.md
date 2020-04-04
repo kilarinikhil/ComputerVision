@@ -8,5 +8,5 @@ Model tree:
 - [x] Sobel edge detector
 - [x] Hough transform(py file yet to be uploaded)
 - [x] Harris corner detector(py file yet to be uploaded)
-
+- [x] Horn-schunck optical flow
 Further updates will soon be conveyed
